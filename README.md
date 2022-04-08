@@ -4,11 +4,7 @@ This repository contains the SAE samples accompanying the paper [Investigating A
 
 To encourage future work in developing NLP for diverse audiences, we introduce a dataset of 2019 intent-equivalent AAVE/SAE pairs. The AAVE samples are sampled from Blodgett et. al. (2016)'s [TwitterAAE](http://slanglab.cs.umass.edu/TwitterAAE/), with their corresponding SAE samples annotated by Amazon MTurk. 
 
-To comply with Twitter's [Terms of Service](https://developer.twitter.com/en/developer-terms/agreement-and-policy), we are only including the SAE samples here. Please reach out to us at any of the following emails for the AAVE samples:
-- [sophiegroenwold@ucsb.edu](sophiegroenwold@ucsb.edu)
-- [lilyou@ucsb.edu](lilyou@ucsb.edu)
-- [aeshaparekh@ucsb.edu](aeshaparekh@ucsb.edu)
-- [shonnavalli@ucsb.edu](shonnavalli@ucsb.edu)
+To comply with Twitter's [Terms of Service](https://developer.twitter.com/en/developer-terms/agreement-and-policy), we are only including the SAE samples here. Please view the optional supplementary materials on [ACL Anthology](https://aclanthology.org/2020.emnlp-main.473/) for the full dataset.
 
 If you use this dataset, please cite the paper:
 
